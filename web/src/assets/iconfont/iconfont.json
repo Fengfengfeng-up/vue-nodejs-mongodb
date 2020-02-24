@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1196941",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "3497545",
+      "name": "hero",
+      "font_class": "shuzibisvg-",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "4351773",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7048346",
+      "name": "News",
+      "font_class": "News",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
+      "icon_id": "10101831",
+      "name": "more read",
+      "font_class": "moreread",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
